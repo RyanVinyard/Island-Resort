@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+}
+
+h2{
+  text-align: center;
+}
+
+h6{
+  text-align: center;
+  font-size: 15px;
+  word-spacing: 60px;
+}
+
+body {
+  background-image: url("http://cdn.pcwallart.com/images/island-beach-wallpaper-2.jpg");
+}
+
+div.banner {
+  background-color: #99ccff;
+}
+
+div.banner2{
+  background: -moz-linear-gradient(top, #a3d1ff 20%, #a3dff1 54%, #a3d1ff 83%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #a3d1ff 20%,#a3dff1 54%,#a3d1ff 83%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #a3d1ff 20%,#a3dff1 54%,#a3d1ff 83%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a3d1ff', endColorstr='#a3d1ff',GradientType=0 );
+}
+
+div.images img {
+  height: 300px;
+  width: 600px;
+}
